@@ -61,9 +61,6 @@ A lightweight Telegram bot that transforms URLs into QR codes with a simple mess
    ```text
    https://github.com
    ```  
-3. Receive QR code image instantly:  
-
-![QR Code Example](https://via.placeholder.com/150x150.png?text=Example+QR+Code)  
 
 ---
 
